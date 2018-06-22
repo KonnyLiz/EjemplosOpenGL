@@ -1,0 +1,3 @@
+/home/konny/Documents/ogl/tetera/build/CMakeFiles/edit_cache.dir
+/home/konny/Documents/ogl/tetera/build/CMakeFiles/rebuild_cache.dir
+/home/konny/Documents/ogl/tetera/build/CMakeFiles/tetera.dir

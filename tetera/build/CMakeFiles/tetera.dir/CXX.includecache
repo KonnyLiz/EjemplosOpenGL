@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/konny/Documents/ogl/tetera/main.cpp
+GL/glu.h
+-
+GL/glut.h
+-
+stdlib.h
+-
+
