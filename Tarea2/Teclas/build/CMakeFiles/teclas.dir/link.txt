@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/teclas.dir/main.cpp.o  -o teclas -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 

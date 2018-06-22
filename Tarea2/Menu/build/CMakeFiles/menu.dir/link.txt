@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/menu.dir/main.cpp.o  -o menu -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 
