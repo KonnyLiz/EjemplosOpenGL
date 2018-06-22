@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/punto4.dir/main.cpp.o  -o punto4 -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 

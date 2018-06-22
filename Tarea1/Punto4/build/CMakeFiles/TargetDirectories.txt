@@ -1,0 +1,1 @@
+/home/konny/ogl/Tarea1/Punto4/build/CMakeFiles/punto4.dir

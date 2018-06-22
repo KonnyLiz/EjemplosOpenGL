@@ -1,0 +1,1 @@
+/home/konny/ogl/Tarea1/Punto5/build/CMakeFiles/punto5.dir
