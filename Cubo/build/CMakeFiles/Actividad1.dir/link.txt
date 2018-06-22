@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/Actividad1.dir/main.cpp.o  -o Actividad1 -rdynamic -lGLU -lGL -lglut -lXmu -lXi 
