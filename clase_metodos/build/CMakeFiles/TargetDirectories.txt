@@ -1,0 +1,3 @@
+/home/konny/Documents/ogl/clase_metodos/build/CMakeFiles/rebuild_cache.dir
+/home/konny/Documents/ogl/clase_metodos/build/CMakeFiles/edit_cache.dir
+/home/konny/Documents/ogl/clase_metodos/build/CMakeFiles/Actividad1.dir
