@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/menusolidos.dir/main.cpp.o  -o menusolidos -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

@@ -1,0 +1,3 @@
+/home/konny/Documents/ogl/MenuSolidos/build/CMakeFiles/edit_cache.dir
+/home/konny/Documents/ogl/MenuSolidos/build/CMakeFiles/rebuild_cache.dir
+/home/konny/Documents/ogl/MenuSolidos/build/CMakeFiles/menusolidos.dir
