@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Mesa.dir/main.cpp.o  -o Mesa -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 

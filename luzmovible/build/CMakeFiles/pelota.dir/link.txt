@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/pelota.dir/main.cpp.o  -o pelota -rdynamic -lGLU -lGL -lglut -lXmu -lXi 

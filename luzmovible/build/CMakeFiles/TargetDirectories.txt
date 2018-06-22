@@ -1,0 +1,3 @@
+/home/konny/Documents/ogl/luzmovible/build/CMakeFiles/edit_cache.dir
+/home/konny/Documents/ogl/luzmovible/build/CMakeFiles/rebuild_cache.dir
+/home/konny/Documents/ogl/luzmovible/build/CMakeFiles/pelota.dir
