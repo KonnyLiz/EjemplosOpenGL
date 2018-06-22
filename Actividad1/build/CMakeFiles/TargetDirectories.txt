@@ -1,0 +1,3 @@
+/home/konny/Documents/ogl/Actividad1/build/CMakeFiles/rebuild_cache.dir
+/home/konny/Documents/ogl/Actividad1/build/CMakeFiles/edit_cache.dir
+/home/konny/Documents/ogl/Actividad1/build/CMakeFiles/Actividad1.dir
