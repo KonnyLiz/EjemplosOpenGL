@@ -1,0 +1,1 @@
+/home/konny/ogl/parcial1/Punto3/build/CMakeFiles/punto3.dir
