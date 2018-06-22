@@ -1,0 +1,3 @@
+/home/konny/Documents/ogl/clase_menu/build/CMakeFiles/rebuild_cache.dir
+/home/konny/Documents/ogl/clase_menu/build/CMakeFiles/edit_cache.dir
+/home/konny/Documents/ogl/clase_menu/build/CMakeFiles/menu.dir

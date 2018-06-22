@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/konny/Documents/ogl/clase_menu/menu.cpp
+GL/gl.h
+-
+GL/glu.h
+-
+GL/glut.h
+-
+
